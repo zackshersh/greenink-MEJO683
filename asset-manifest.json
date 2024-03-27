@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/greenink-MEJO683/static/css/main.e6e9f169.css",
+    "main.js": "/greenink-MEJO683/static/js/main.0c77bf5c.js",
+    "static/media/Belly Betty.ttf": "/greenink-MEJO683/static/media/Belly Betty.bd77fb374f4dd115f566.ttf",
+    "static/media/ADega Serif Regular.otf": "/greenink-MEJO683/static/media/ADega Serif Regular.7df2693aee2a383c169a.otf",
+    "static/media/ADega Serif Bold.otf": "/greenink-MEJO683/static/media/ADega Serif Bold.896e3209f8aafb2bfa2c.otf",
+    "index.html": "/greenink-MEJO683/index.html",
+    "main.e6e9f169.css.map": "/greenink-MEJO683/static/css/main.e6e9f169.css.map",
+    "main.0c77bf5c.js.map": "/greenink-MEJO683/static/js/main.0c77bf5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6e9f169.css",
+    "static/js/main.0c77bf5c.js"
+  ]
+}
